@@ -1,4 +1,5 @@
 # do not clone checkpoints
 .ipynb_checkpoints/
+tutorial_notebooks/tmp/
 
 internal/
