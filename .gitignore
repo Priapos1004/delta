@@ -4,3 +4,4 @@ tutorial_notebooks/tmp/
 .DS_Store
 
 internal/
+*.zip
