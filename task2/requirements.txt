@@ -1,0 +1,19 @@
+# Python 3.11.15
+setuptools<81
+numpy==2.4.4
+pandas==3.0.2
+pyarrow==25.0.0
+scipy==1.17.1
+scikit-learn==1.8.0
+matplotlib==3.10.8
+nltk==3.9.4
+emoji==2.15.0
+pysentiment2==0.1.1
+gensim==4.4.0
+keras==3.14.0
+tensorflow==2.21.0
+torch==2.13.0
+transformers==5.6.1
+accelerate==1.14.0
+xgboost==3.2.0
+optuna==4.8.0
